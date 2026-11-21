@@ -1,0 +1,14 @@
+{
+  "name": "poster-tideglass-01-r3",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The Poster for a Place That Isn't There — Tideglass, a make.fun travel poster entry.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
